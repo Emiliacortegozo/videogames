@@ -4,7 +4,7 @@ App utlizando:
 -  Redux
 -  Express
 - Sequelize - Postgres
-- 
+
 ![Screenshot_20220725-190604](https://user-images.githubusercontent.com/96702771/180882230-003d6236-d6a6-41c0-a890-60db1be85744.png)
 ![Screenshot_20220725-190551](https://user-images.githubusercontent.com/96702771/180882247-9bc553fa-7470-4cf2-9e89-cfb36dcf98c0.png)
 ![Screenshot_20220725-190658](https://user-images.githubusercontent.com/96702771/180882255-37a49cbc-c0c2-4b80-a4b6-8ac6106ec848.png)
