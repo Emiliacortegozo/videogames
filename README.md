@@ -1,14 +1,11 @@
 
 App utlizando:
--  React
--  Redux
--  Express
-- Sequelize - Postgres
+-  React -  Express
+-  Redux - Sequelize - Postgres
+![videogamesHOME](https://user-images.githubusercontent.com/96702771/180893781-b26e1b3d-b9e9-427b-acdd-7de9935c9b22.png)
 
-![Screenshot_20220725-190604](https://user-images.githubusercontent.com/96702771/180882230-003d6236-d6a6-41c0-a890-60db1be85744.png)
-![Screenshot_20220725-190551](https://user-images.githubusercontent.com/96702771/180882247-9bc553fa-7470-4cf2-9e89-cfb36dcf98c0.png)
-![Screenshot_20220725-190658](https://user-images.githubusercontent.com/96702771/180882255-37a49cbc-c0c2-4b80-a4b6-8ac6106ec848.png)
-![Screenshot_20220725-190628](https://user-images.githubusercontent.com/96702771/180882262-d8a92c46-1551-4140-9f85-b6c574c60d44.png)
+![Screenshot_20220725-190658](https://user-images.githubusercontent.com/96702771/180893785-eaddd642-523c-4f7b-b341-ceb7d0388173.png)
+![Screenshot_20220725-190628](https://user-images.githubusercontent.com/96702771/180894058-b1f8c1f0-26ea-489f-bbba-7d3cd8bab9e7.png)
 
 
 consume datos de API: [rawg](https://rawg.io/apidocs) 
