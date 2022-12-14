@@ -1,5 +1,5 @@
 require('dotenv').config();
-const { APIKEY } = process.env;
+
 const { Router } = require('express');
 const { Videogame, Genre } = require('../db');
 const router = Router();
@@ -7,7 +7,7 @@ const axios = require('axios');
 
 // Importar todos los routers;
 // Ejemplo: const authRouter = require('./auth.js');
-
+let APIKEY='a603fede66d74e62ac610635e5e26260';
 
        const URL = 'https://api.rawg.io/api/games'
  
