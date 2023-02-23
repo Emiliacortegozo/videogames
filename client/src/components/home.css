@@ -1,6 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Ubuntu&display=swap');
 
+.home{
+    opacity: 0.9px;
+ 
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
 
+}
 .title2{ padding-top: 0;
     color:rgb(136, 156, 156);
     font-size:35px;

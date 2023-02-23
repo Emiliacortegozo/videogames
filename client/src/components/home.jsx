@@ -66,7 +66,7 @@ dispatch(getGames());
     }
    
     return (
-        <div>
+        <div className="home">
             <h1 className="title2"> VIDEOGAMES</h1>
 <div className="options1">
 
