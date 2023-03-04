@@ -114,7 +114,8 @@ dispatch(getGames());
 <Paginado
 videosPerPage = {videosPerPage}
 allGames ={allGames.length}
-paginado={paginado}/>
+paginado={paginado}/>  <div class="loading" >
+
 <div  className="CONTAINER">
 {currentVideos.map((el)=> 
         <Link style={{ textDecoration: 'none'}} key={el.id} to={`/videogame/${el.id}`}>
@@ -122,6 +123,7 @@ paginado={paginado}/>
  genres={el.genres}/> 
   </Link>)
 }
+</div>
 </div>
 </div>
 )}
